@@ -93,6 +93,8 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [PipeOps](https://pipeops.io) | Golang | [Code →](https://github.com/PipeOpsHQ/golang-take-home-test)
 | :fr: | [Ten Ten](https://github.com/tentenapp) | Any Programming Language | [Code →](https://github.com/tentenapp/platform-interview-test)
 | :czech_republic: | [Mews](https://mews.com) | Any Programming Language, Logs Analysis | [Code →](https://github.com/MewsSystems/tech-platform-engineering-interview-task)
+| 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinysql)
+| 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinykv)
 
 ## Inspiration
 Inspired on [CollabChallenges](https://github.com/CollabChallenges)'s [backend-challenges](https://github.com/CollabChallenges/backend-challenges). Kudos!
