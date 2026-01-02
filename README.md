@@ -95,6 +95,7 @@ Feel free to contribute! Only open-source challenges please!
 | :czech_republic: | [Mews](https://mews.com) | Any Programming Language, Logs Analysis | [Code →](https://github.com/MewsSystems/tech-platform-engineering-interview-task)
 | 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinysql)
 | 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinykv)
+| :us: | [MIT](https://www.mit.edu/) | Golang, Distributed Systems | [Code →](https://learncs.me/mit/6.824)
 
 ## Inspiration
 Inspired on [CollabChallenges](https://github.com/CollabChallenges)'s [backend-challenges](https://github.com/CollabChallenges/backend-challenges). Kudos!
