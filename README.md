@@ -73,7 +73,7 @@ Feel free to contribute! Only open-source challenges please!
 | :hong_kong: | [Lalamove](http://lalamove.com) | Golang, Kubernetes | [Code →](https://github.com/lalamove/infra-challenge)
 | :us: | [Shopify](https://shopify.engineering/) | Golang | [Code →](https://github.com/Shopify/infra-intern-assessment)
 | :estonia: | [Klaus](https://klausapp.com) | Golang, gRPC, Kubernetes | [Code →](https://github.com/rrttalv/softwareengineer-test-task)
-| :us: | [FigureTechnologies](https://www.figure.com) | Golang, Kubernetes | [Code →](https://github.com/FigureTechnologies/devops-skills-assessment)
+| :us: | [FigureTechnologies](https://www.figure.com) | Golang, Scripting, Kubernetes | [Code →](https://github.com/FigureTechnologies/devops-skills-assessment)
 | :us: | [Polymarket](http://polymarket.com) | Golang, Docker, Github Actions, Kubernetes | [Code →](https://github.com/Polymarket/infra-challenge-devops) 
 | :us: | [Movable Ink](http://movableink.com) | Golang | [Code →](https://github.com/movableink/sre-assignment-golang)
 | :us: | [Fender Digital](http://www.fender.com) | Any Programming Language | [Code →](https://github.com/fenderdigital/devops-challenge)
